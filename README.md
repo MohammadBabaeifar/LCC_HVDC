@@ -8,4 +8,4 @@ LCC_HVDC is a library that we created with Modelica language for simulation of h
 
 ## Where to Commence?
 
-You can open this library with a Modelica tool like OpenModelica or Dymola. Every model has a description in the /"Documentation Browser".
+You can open this library with a Modelica tool like OpenModelica or Dymola. Every model has a description in the "Documentation Browser".
