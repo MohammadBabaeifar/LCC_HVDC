@@ -1,6 +1,6 @@
 # LCC_HVDC
 
-A library for simulating line-commutated converter high voltage direct current (LCC HVDC) systems. This library is open source and free of use. This feature is an advantage over the exsiting libraries that are available in closed source tools for LCC HVDC studies.
+A library for simulating line-commutated converter high voltage direct current (LCC HVDC) systems. This library is open source and free of use. This feature is an advantage over the exsiting libraries that focus on LCC HVDC studies in the closed source tools. It is also the first Modelica library which concentrates on thyristor-based (LCC) HVDC systems.
 
 ## Library scope in brief
 
