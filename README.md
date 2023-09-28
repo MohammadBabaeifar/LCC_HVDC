@@ -12,7 +12,8 @@ You can open this library with a Modelica tool like OpenModelica or Dymola. It c
 
 ## Maintainers
 
-This library is developed by the following peaple all of which are from the University of Pisa, department of Energy, Systems, Territory and Construction (DESTEC):
+This library is developed by the following people all of which are from the University of Pisa, department of Energy, Systems, Territory and Construction (DESTEC):
+
 * Mohammad Babaeifar (PhD student) mohammad.babaeifar@phd.unipi.it
 * Professor Massimo Ceraolo (Full Professor of Electric Power Systems) massimo.ceraolo@unipi.it 
 * Professor Stefano Barsali (Full Professor of Electric Power Systems) stefano.barsali@unipi.it
