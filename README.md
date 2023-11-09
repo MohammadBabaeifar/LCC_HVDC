@@ -10,6 +10,12 @@ LCC_HVDC is a library that we created with Modelica language for simulation of h
 
 You can open this library with a Modelica tool like OpenModelica or Dymola. It comprises of two subpackages namely "Models" and "Examples". In the former, every model has a description in the "Documentation Browser". Under "Examples", a test is provided to clearly exemplify each model with an illustration available in the documentation browser.
 
+## Citing LCC_HVDC library
+We would truly appreciate it if you could cite our following publications if you use this library:
+
+* Mohammad Babaeifar, Stefano Barsali, Massimo Ceraolo, LCC_HVDC: A Modelica-based library for HVDC simulations, Software Impacts, Volume 18, 2023, https://doi.org/10.1016/j.simpa.2023.100596.
+* M. Babaeifar, S. Barsali and M. Ceraolo, "Simulation of Sapei HVDC Using Modelica Language," 2023 AEIT HVDC International Conference (AEIT HVDC), Rome, Italy, 2023, pp. 1-6, doi: 10.1109/AEITHVDC58550.2023.10179027.
+
 ## Maintainers
 
 This library is developed by the following people all of which are from the University of Pisa, department of Energy, Systems, Territory and Construction (DESTEC):
